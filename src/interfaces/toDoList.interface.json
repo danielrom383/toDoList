@@ -1,0 +1,11 @@
+
+export default class ToDoListInterface {
+
+    todo: any[] = [];
+
+    constructor(){
+    }
+
+    
+
+}
