@@ -17,6 +17,7 @@
     "@types/rx": "^4.1.2",
     "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
+    "create-react-app": "^4.0.1",
     "material-design-icons": "^3.0.1",
     "material-icons-react": "^1.0.4",
     "react": "^16.13.1",
@@ -55,5 +56,16 @@
     "@types/react-router-dom": "^5.1.5",
     "eslint-plugin-react-hooks": "^4.0.4",
     "gh-pages": "^3.1.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielrom383/toDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielrom383/toDoList/issues"
   }
 }
